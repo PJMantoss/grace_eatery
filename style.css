@@ -6,3 +6,12 @@
     /* font-family: 'Lemonada', cursive; */
     text-transform: capitalize;
 }
+
+html {
+    font-size: 62.5%;
+    scroll-behavior: smooth;
+}
+
+body {
+    overflow-x: hidden;
+}
