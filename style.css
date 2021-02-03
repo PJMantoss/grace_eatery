@@ -25,5 +25,9 @@ body {
     align-items: center;
     justify-content: space-between;
     padding: 2rem 4rem;
-    z-index: 1000;
+    z-index: 1000;   }
+}
+
+#header .logo img {
+    height: 5rem;
 }
