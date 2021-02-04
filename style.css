@@ -34,4 +34,7 @@ body {
 
 #header .fa-hamburger {
     font-size: 4rem;
+    color: #FFF200;
+    cursor: pointer;
+    display: none;
 }
