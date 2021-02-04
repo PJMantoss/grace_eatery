@@ -57,4 +57,5 @@ body {
 
 #header nav ul li a:hover {
     color: #FFF200;
+    text-decoration: none;
 }
