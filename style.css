@@ -31,3 +31,7 @@ body {
 #header .logo img {
     height: 5rem;
 }
+
+#header .fa-hamburger {
+    font-size: 4rem;
+}
