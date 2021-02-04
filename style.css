@@ -37,4 +37,5 @@ body {
     color: #FFF200;
     cursor: pointer;
     display: none;
+    z-index: 10000;
 }
