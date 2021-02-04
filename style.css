@@ -39,3 +39,7 @@ body {
     display: none;
     z-index: 10000;
 }
+
+#header nav ul {
+    display: flex;
+}
