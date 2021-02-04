@@ -42,4 +42,10 @@ body {
 
 #header nav ul {
     display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+
+#header nav ul li {
+    margin-right: 4rem;
 }
