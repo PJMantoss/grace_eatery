@@ -64,3 +64,7 @@ body {
     background: #333;
     height : 6rem;
 }
+
+#header:active nav ul{
+    margin: 0;
+}
