@@ -60,3 +60,7 @@ body {
     text-decoration: none;
 }
 
+#header:active {
+    background: #333;
+    height : 6rem;
+}
