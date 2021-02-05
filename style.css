@@ -14,6 +14,7 @@ html {
 
 body {
     overflow-x: hidden;
+    background: rgb(87, 86, 86);
 }
 
 #header {
@@ -68,3 +69,4 @@ body {
 #header:active nav ul{
     margin: 0;
 }
+
