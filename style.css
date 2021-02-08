@@ -69,3 +69,7 @@ body {
 #header:active nav ul{
     margin: 0;
 }
+
+#home {
+    position: relative;
+}
