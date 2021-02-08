@@ -82,3 +82,11 @@ body {
     font-weight: bolder;
     text-shadow: .1rem .1rem .3rem #333;
 }
+
+#home .content h1 {
+    font-size: 3.5rem;
+    font-family: 'lemonada',sans-serif;
+    color: #FFF;
+    font-weight: bolder;
+    text-shadow: .1rem .1rem .3rem #333;
+}
