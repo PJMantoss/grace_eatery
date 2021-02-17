@@ -117,4 +117,10 @@ body {
         width: 100vw;
         background: #000;
     }
+
+    #header nav ul {
+        flex-flow: column;
+        justify-content: center;
+        height: 100%;
+    }
 }
