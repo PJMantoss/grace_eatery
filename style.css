@@ -108,6 +108,8 @@ body {
     letter-spacing: .2rem;
     cursor: pointer;
     position: relative;
+    z-index: 1;
+    overflow: hidden;
 }
 
 /* Media Queries */
