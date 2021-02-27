@@ -112,6 +112,7 @@ body {
     overflow: hidden;
     height: 4rem;
     width: 14rem;
+    background: #fff;
 }
 
 /* Media Queries */
