@@ -110,6 +110,8 @@ body {
     position: relative;
     z-index: 1;
     overflow: hidden;
+    height: 4rem;
+    width: 14rem;
 }
 
 /* Media Queries */
