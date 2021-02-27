@@ -99,8 +99,11 @@ body {
 
 #home .content button {
     outline: none;
-    border: 0;
+    border: none;
     border-radius: 5rem;
+    color: #333;
+    font-size: 1.6rem;
+    font-weight: bold;
 }
 
 /* Media Queries */
