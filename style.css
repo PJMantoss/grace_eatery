@@ -154,7 +154,8 @@ body {
 
 #home .controls {
     position: absolute;
-    
+    bottom: 14%;
+    left: 50%;
 }
 /* Media Queries */
 
