@@ -148,6 +148,10 @@ body {
     display: none;
 }
 
+#home .video-container .vid1 {
+    display: block;
+}
+
 /* Media Queries */
 
 @media(max-width: 768px){
