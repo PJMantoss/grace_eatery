@@ -154,8 +154,10 @@ body {
 
 #home .controls {
     position: absolute;
+    display: flex;
     bottom: 14%;
     left: 50%;
+    transform: translateX(-50%);
 }
 /* Media Queries */
 
