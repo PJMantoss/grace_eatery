@@ -115,6 +115,13 @@ body {
     background: #fff;
 }
 
+#home .content button::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
 /* Media Queries */
 
 @media(max-width: 768px){
