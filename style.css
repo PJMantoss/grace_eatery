@@ -163,6 +163,7 @@ body {
 #home .controls .dots {
     height: 2rem;
     width: 2rem;
+    background: #FFF200;
     cursor: pointer;
 }
 /* Media Queries */
