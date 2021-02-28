@@ -159,6 +159,11 @@ body {
     left: 50%;
     transform: translateX(-50%);
 }
+
+#home .controls .dots {
+    height: 2rem;
+    width: 2rem;
+}
 /* Media Queries */
 
 @media(max-width: 768px){
