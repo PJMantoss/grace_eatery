@@ -143,6 +143,8 @@ body {
 #home .video-container .vid {
     position: absolute;
     height: 100vh;
+    object-fit: cover;
+    display: none;
 }
 
 /* Media Queries */
