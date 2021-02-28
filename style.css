@@ -127,6 +127,10 @@ body {
     z-index: -1;
 }
 
+#home .content button:hover::before {
+    width: 100%;
+}
+
 /* Media Queries */
 
 @media(max-width: 768px){
