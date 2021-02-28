@@ -152,6 +152,10 @@ body {
     display: block;
 }
 
+#home .controls {
+    position: absolute;
+    
+}
 /* Media Queries */
 
 @media(max-width: 768px){
