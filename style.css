@@ -131,6 +131,12 @@ body {
     width: 100%;
 }
 
+#home .video-container .vid {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
 /* Media Queries */
 
 @media(max-width: 768px){
