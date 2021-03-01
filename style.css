@@ -193,6 +193,10 @@ body {
     font-size: 2rem;
 }
 
+#special .card-container {
+    width: 95s%;
+}
+
 /* Media Queries */
 
 @media(max-width: 768px){
