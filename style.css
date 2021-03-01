@@ -179,11 +179,14 @@ body {
 
 #special .heading h1 {
     font-size: 4rem;
-    padding-top: ;
-    margin-bottom: ;
+    padding-top: 7rem;
+    margin-bottom: 2rem;
     color: #fff;
 }
 
+#special .heading h1 span {
+    color: #FFF200;
+}
 /* Media Queries */
 
 @media(max-width: 768px){
