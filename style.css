@@ -194,6 +194,8 @@ body {
 }
 
 #special .card-container {
+    display: flex;
+    align-items: center;
     width: 95%;
     margin: 7rem auto;
 }
