@@ -196,6 +196,7 @@ body {
 #special .card-container {
     display: flex;
     align-items: center;
+    justify-content: space-around;
     width: 95%;
     margin: 7rem auto;
 }
