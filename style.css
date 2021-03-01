@@ -171,6 +171,8 @@ body {
 #home .controls .dots:hover{
     background: #fff;
 }
+
+
 /* Media Queries */
 
 @media(max-width: 768px){
