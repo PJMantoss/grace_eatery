@@ -173,8 +173,12 @@ body {
 }
 
 #special {
-    background: ;
-    min-height: ;
+    background: #000;
+    min-height: 100vh;
+}
+
+#special .heading h1 {
+    color: #fff;
 }
 
 /* Media Queries */
