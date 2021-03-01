@@ -194,7 +194,8 @@ body {
 }
 
 #special .card-container {
-    width: 95s%;
+    width: 95%;
+    margin: 7rem auto;
 }
 
 /* Media Queries */
