@@ -211,6 +211,11 @@ body {
     background: #fff;
 }
 
+#special .card-container .card img {
+    width: 100%;
+    height: 50%;
+}
+
 /* Media Queries */
 
 @media(max-width: 768px){
