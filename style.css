@@ -167,6 +167,10 @@ body {
     background: #FFF200;
     cursor: pointer;
 }
+
+#home .controls .dots:hover{
+    background: #fff;
+}
 /* Media Queries */
 
 @media(max-width: 768px){
