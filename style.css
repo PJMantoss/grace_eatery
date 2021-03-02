@@ -222,6 +222,11 @@ body {
     margin: 2rem 0;
 }
 
+#special .card-container .card button {
+    outline: none;
+    border: 0;
+}
+
 /* Media Queries */
 
 @media(max-width: 768px){
