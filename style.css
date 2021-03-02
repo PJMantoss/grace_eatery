@@ -227,10 +227,14 @@ body {
     height: 3.5rem;
     position: relative;
     background: #333;
+    color: #fff;
+    font-size: 1.6rem;
+    font-weight: bold;
+    letter-spacing: 2rem;
+    text-transform: capitalize;
     outline: none;
     border: 0;
     border-radius: 5rem;
-    color: #333;
 }
 
 /* Media Queries */
