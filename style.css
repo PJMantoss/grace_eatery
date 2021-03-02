@@ -218,7 +218,8 @@ body {
 }
 
 #special .card-container .card p {
-    font-size: ;
+    font-size: 1.4rem;
+    margin: 2rem 0;
 }
 
 /* Media Queries */
