@@ -225,6 +225,8 @@ body {
 #special .card-container .card button {
     width: 14rem;
     height: 3.5rem;
+    position: relative;
+    background: #333;
     outline: none;
     border: 0;
     border-radius: 5rem;
