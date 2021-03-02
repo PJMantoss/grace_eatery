@@ -237,6 +237,7 @@ body {
     border-radius: 5rem;
     overflow: hidden;
     cursor: pointer;
+    z-index: 1;
 }
 
 /* Media Queries */
