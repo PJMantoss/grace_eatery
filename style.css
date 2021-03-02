@@ -225,6 +225,8 @@ body {
 #special .card-container .card button {
     outline: none;
     border: 0;
+    border-radius: 5rem;
+    color: #333;
 }
 
 /* Media Queries */
