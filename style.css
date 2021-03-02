@@ -217,6 +217,10 @@ body {
     object-fit: cover;
 }
 
+#special .card-container .card p {
+    font-size: ;
+}
+
 /* Media Queries */
 
 @media(max-width: 768px){
