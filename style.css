@@ -247,7 +247,8 @@ body {
     height: 100%;
     top: 0;
     left: 0;
-    background: ;
+    background: #FFF200;
+    transition: .2s;
 }
 
 /* Media Queries */
