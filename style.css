@@ -273,6 +273,10 @@ body {
     margin-bottom: 2rem;
 }
 
+#about .heading h1 {
+    color: #FFF200;
+}
+
 /* Media Queries */
 
 @media(max-width: 768px){
