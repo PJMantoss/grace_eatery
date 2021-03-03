@@ -240,6 +240,11 @@ body {
     z-index: 1;
 }
 
+#special .card-container .card button::before {
+    content: "";
+    position: absolute;
+}
+
 /* Media Queries */
 
 @media(max-width: 768px){
