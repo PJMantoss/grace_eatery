@@ -260,6 +260,10 @@ body {
     color: #333;
 }
 
+#special .card-container .card:hover {
+    transform: scale(0.9);
+}
+
 /* Media Queries */
 
 @media(max-width: 768px){
