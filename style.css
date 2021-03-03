@@ -256,6 +256,10 @@ body {
     width: 100%;
 }
 
+#special .card-container .card button:hover {
+    color: #333;
+}
+
 /* Media Queries */
 
 @media(max-width: 768px){
