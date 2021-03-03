@@ -233,7 +233,7 @@ body {
     letter-spacing: .2rem;
     text-transform: capitalize;
     outline: none;
-    border: none;
+    border: 0;
     border-radius: 5rem;
     overflow: hidden;
     cursor: pointer;
