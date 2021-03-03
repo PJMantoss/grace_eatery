@@ -252,6 +252,10 @@ body {
     z-index: -1;
 }
 
+#special .card-container .card button:hover::before{
+    width: 100%;
+}
+
 /* Media Queries */
 
 @media(max-width: 768px){
