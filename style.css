@@ -288,11 +288,12 @@ body {
 
 #about .content button {
     height: 4rem;
-    
+    width: 14rem;
     outline: none;
     border: 0;
     border-radius: 5rem;
-    color: #333;
+    background: #333;
+    color: #fff;
     font-size: 1.6rem;
     font-weight: bold;
     text-transform: capitalize;
