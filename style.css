@@ -316,6 +316,10 @@ body {
     z-index: -1;
 }
 
+#about .content button:hover::before {
+    width: 100%;
+}
+
 /* Media Queries */
 
 @media(max-width: 768px){
