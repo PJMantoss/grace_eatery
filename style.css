@@ -281,6 +281,14 @@ body {
     margin: 5rem auto;
 }
 
+#about .content p {
+    font-size: 2rem;
+}
+
+#about .content button {
+    
+}
+
 /* Media Queries */
 
 @media(max-width: 768px){
