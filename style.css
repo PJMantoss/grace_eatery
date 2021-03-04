@@ -268,13 +268,14 @@ body {
 
 #about .heading h1 {
     font-size: 4rem;
+    /* font-weight: bold; */
     color: #000;
     padding-top: 7rem;
     margin-bottom: 2rem;
 }
 
-#about .heading h1 {
-    color: #FFF200;
+#about .heading h1 span{
+    color: #e2d708;
 }
 
 #about .content {
@@ -286,6 +287,8 @@ body {
 }
 
 #about .content button {
+    outline: none;
+    border: 0;
     
 }
 
