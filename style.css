@@ -301,6 +301,7 @@ body {
     position: relative;
     cursor: pointer;
     overflow: hidden;
+    z-index: -1;
 }
 
 /* Media Queries */
