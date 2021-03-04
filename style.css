@@ -277,6 +277,10 @@ body {
     color: #FFF200;
 }
 
+#about .content {
+    margin: 5rem auto;
+}
+
 /* Media Queries */
 
 @media(max-width: 768px){
